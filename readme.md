@@ -9,5 +9,5 @@ docker build -t defaultpropensityapi -f dockerbuilds/Dockerfile docker/
 ```
 
 ```bash
-docker run -d -p 80:8080 --name defaultpropensityapi defaultpropensityapi
+docker run -d -p 8080:8080 --name defaultpropensityapi defaultpropensityapi
 ```

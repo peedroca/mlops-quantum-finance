@@ -1,0 +1,1 @@
+loan_purpose_encoded, Security_Type_encoded, age_encoded, Region_encoded, year, loan_amount, term, property_value, income, Credit_Score, LTV, dtir1
