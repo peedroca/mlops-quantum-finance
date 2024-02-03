@@ -1,0 +1,12 @@
+{                                                     
+  "models": {                                         
+    "default_propensity": {                                     
+      "version": "V01",                               
+      "url": "http://172.19.0.2:8080/predict"          
+    },                                                
+    "customer_clustering": {                                     
+      "version": "V01",                               
+      "url": "http://172.19.0.3:8080/predict"          
+    }                                                 
+  }                                                   
+}                                                     

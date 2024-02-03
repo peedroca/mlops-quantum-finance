@@ -1,0 +1,44 @@
+{
+  "reqtime": "2024-02-03 07:30:05.622385",
+  "REMOTE_ADDR": "192.168.65.1",
+  "input": {
+    "base_url": "http://localhost:8090/predict",
+    "method": "POST",
+    "args": {
+      "model": "modelo01"
+    },
+    "content": {
+      "occupancy_type": "pr",
+      "co_applicant_credit_type": "EXP",
+      "Credit_Score": 736,
+      "LTV": 80.0245098,
+      "loan_purpose": "p3",
+      "dtir1": 49.0,
+      "property_value": 408000.0,
+      "submission_of_application": "to_inst",
+      "approv_in_adv": "nopre",
+      "income": 5880.0
+    }
+  },
+  "output": {
+    "content": {
+      "prediction": 0
+    },
+    "status_code": 200,
+    "headers": [
+      [
+        "Server",
+        "Werkzeug/3.0.1 Python/3.10.13"
+      ],
+      [
+        "Date",
+        "Sat, 03 Feb 2024 07:30:05 GMT"
+      ],
+      [
+        "Content-Type",
+        "application/json"
+      ]
+    ]
+  },
+  "model": "modelo01"
+}

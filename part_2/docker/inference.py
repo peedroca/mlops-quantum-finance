@@ -30,12 +30,12 @@ def init():
     global model
     global stats_label
     
-    loan_purpose_encoder = pickle.load(open('loan_purpose_encoder.pkl', 'rb'))
-    Security_Type_encoder = pickle.load(open('Security_Type_encoder.pkl', 'rb'))
-    age_encoder = pickle.load(open('age_encoder.pkl', 'rb'))
-    Region_encoder = pickle.load(open('Region_encoder.pkl', 'rb'))
-    scaler = pickle.load(open('scaler.pkl', 'rb'))
-    model = pickle.load(open('model.pkl', 'rb'))
+    loan_purpose_encoder = pickle.load(open('artifacts/loan_purpose_encoder.pkl', 'rb'))
+    Security_Type_encoder = pickle.load(open('artifacts/Security_Type_encoder.pkl', 'rb'))
+    age_encoder = pickle.load(open('artifacts/age_encoder.pkl', 'rb'))
+    Region_encoder = pickle.load(open('artifacts/Region_encoder.pkl', 'rb'))
+    scaler = pickle.load(open('artifacts/scaler.pkl', 'rb'))
+    model = pickle.load(open('artifacts/model.pkl', 'rb'))
 
     stats_label = pd.read_csv('stats_label.csv')
 
