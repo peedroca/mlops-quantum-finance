@@ -16,4 +16,4 @@ echo "Updating microservices.json for expose APIs for predicting"
 bash ./part_3/update_config.sh
 
 echo "Config model manager"
-docker run -d --restart always --network plat_network -p 8080:8080 -v $(pwd)/part_3/docker/config:/myServer/config -v $(pwd)/part_3/docker/log:/myServer/log --name modelmanager modelmanager
+docker run -d --restart always --network plat_network -p 80:8080 -v $(pwd)/part_3/docker/config:/myServer/config -v $(pwd)/part_3/docker/log:/myServer/log --name modelmanager modelmanager

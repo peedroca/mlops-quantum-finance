@@ -4,7 +4,7 @@ A Startup QuantumFinance é uma Fintech que está entrando no mercado para compe
 
 Durante nosso MBA Data Science & Artificial Intelligence aplicaremos ciência de dados e inteligência artificial para fomentar a expansão da Startup, em seus diversos segmentos e áreas de negócios.
 
-## Configurando o ambiente de Containers
+## Configurando e testando o ambiente de Containers
 1. Para criar a imagem do modelo para testarmos, na pasta raiz, execute:
 ```bash
 docker build -t defaultpropensityapi -f part_1/dockerbuilds/Dockerfile part_1/docker/

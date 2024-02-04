@@ -68,7 +68,6 @@ def predict(request = request):
     logapp(jsoncontent=logg_track, sufix=reqtime.strftime("%Y%m%d-%H%M%S.%f"))
     return response
 
-
 @app.route('/download', methods=['GET', 'POST'])
 def download():
     FILEPATH = "./log"
