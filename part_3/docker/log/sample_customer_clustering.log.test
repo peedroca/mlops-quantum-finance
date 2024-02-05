@@ -1,0 +1,49 @@
+{
+  "reqtime": "2024-02-03 07:39:47.176444",
+  "REMOTE_ADDR": "192.168.65.1",
+  "input": {
+    "base_url": "http://localhost:8080/predict",
+    "method": "POST",
+    "args": {
+      "model": "customer_clustering"
+    },
+    "content": {
+      "loan_purpose": "p4",
+      "Security_Type": "direct",
+      "age": "45-54",
+      "Region": "North",
+      "year": 2019,
+      "loan_amount": 676500,
+      "term": 360.0,
+      "property_value": 1408000.0,
+      "income": 19380.0,
+      "Credit_Score": 796,
+      "LTV": 48.046875,
+      "dtir1": 18.0
+    }
+  },
+  "output": {
+    "content": {
+      "prediction_label": 4,
+      "defaulted_ratio": 0.1526422080107707,
+      "mean_credit_score_defaulted": 705.4288864388093,
+      "persona": "A person with a high score, living in the North, is around 45-54 years old."
+    },
+    "status_code": 200,
+    "headers": [
+      [
+        "Server",
+        "Werkzeug/3.0.1 Python/3.10.13"
+      ],
+      [
+        "Date",
+        "Sat, 03 Feb 2024 07:39:47 GMT"
+      ],
+      [
+        "Content-Type",
+        "application/json"
+      ]
+    ]
+  },
+  "model": "customer_clustering"
+}

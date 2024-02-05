@@ -1,11 +1,11 @@
 {
-  "reqtime": "2024-02-03 07:30:05.622385",
-  "REMOTE_ADDR": "192.168.65.1",
+  "reqtime": "2024-02-04 22:47:24.800041",
+  "REMOTE_ADDR": "45.225.179.211",
   "input": {
-    "base_url": "http://localhost:8090/predict",
+    "base_url": "http://172.214.88.215/predict",
     "method": "POST",
     "args": {
-      "model": "modelo01"
+      "model": "default_propensity"
     },
     "content": {
       "occupancy_type": "pr",
@@ -32,7 +32,7 @@
       ],
       [
         "Date",
-        "Sat, 03 Feb 2024 07:30:05 GMT"
+        "Sun, 04 Feb 2024 22:47:24 GMT"
       ],
       [
         "Content-Type",
@@ -40,5 +40,5 @@
       ]
     ]
   },
-  "model": "modelo01"
+  "model": "default_propensity"
 }
