@@ -42,17 +42,17 @@ Esse trabalho é baseado nas aulas de [Elthon Manhas de Freitas](https://www.lin
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <img src="https://media.licdn.com/dms/image/C4E03AQG37S7u2tb7FA/profile-displayphoto-shrink_800_800/0/1544274826798?e=1712793600&v=beta&t=aBviSOibG3eYVYzPymF2Nq9fTv0B-beitGa9s2c2o40" width="150"/>
+        <img src="https://media.licdn.com/dms/image/C4E03AQG37S7u2tb7FA/profile-displayphoto-shrink_800_800/0/1544274826798?e=1712793600&v=beta&t=aBviSOibG3eYVYzPymF2Nq9fTv0B-beitGa9s2c2o40" width="150"/></br>
         <span> <a href="https://www.linkedin.com/in/gdnf">Gabriel Nascimento</a> </span>
         <p>Contributor</p>
       </td>
       <td align="center" valign="top">
-        <img src="https://media.licdn.com/dms/image/C4D03AQFcIUI8mg7b1A/profile-displayphoto-shrink_800_800/0/1612192689077?e=1712793600&v=beta&t=lEtaA7i_E2gG6UoxgV-znPOIYFi_QJDs8ywTkcRgc8E" width="150"/>
+        <img src="https://media.licdn.com/dms/image/C4D03AQFcIUI8mg7b1A/profile-displayphoto-shrink_800_800/0/1612192689077?e=1712793600&v=beta&t=lEtaA7i_E2gG6UoxgV-znPOIYFi_QJDs8ywTkcRgc8E" width="150"/></br>
         <span> <a href="https://www.linkedin.com/in/matheusromão">Matheus Romão</a> </span>
         <p>Contributor</p>
       </td>
       <td align="center" valign="top">
-        <img src="https://media.licdn.com/dms/image/C4D03AQE6JpF7H5lClw/profile-displayphoto-shrink_800_800/0/1649300517488?e=1712793600&v=beta&t=68TCak4S3Y6q_ntOKDp4HRFyL8wbBJeUyV55ShtttOI" width="150"/>
+        <img src="https://media.licdn.com/dms/image/C4D03AQE6JpF7H5lClw/profile-displayphoto-shrink_800_800/0/1649300517488?e=1712793600&v=beta&t=68TCak4S3Y6q_ntOKDp4HRFyL8wbBJeUyV55ShtttOI" width="150"/></br>
         <span> <a href="https://www.linkedin.com/in/sabrina-otoni-da-silva-22525519b/">Sabrina Otoni</a> </span>
         <p>Contributor</p>
       </td>
