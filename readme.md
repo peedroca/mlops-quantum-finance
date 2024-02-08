@@ -38,7 +38,7 @@ Esse trabalho é baseado nas aulas de [Elthon Manhas de Freitas](https://www.lin
 
 # Contribuições
 
-<div align="center">
+<p>
     <div>
         <img src="https://media.licdn.com/dms/image/C4E03AQG37S7u2tb7FA/profile-displayphoto-shrink_800_800/0/1544274826798?e=1712793600&v=beta&t=aBviSOibG3eYVYzPymF2Nq9fTv0B-beitGa9s2c2o40" width="150"/>
         <span> <a href="https://www.linkedin.com/in/gdnf">Gabriel Nascimento</a> </span>
@@ -51,4 +51,4 @@ Esse trabalho é baseado nas aulas de [Elthon Manhas de Freitas](https://www.lin
         <img src="https://media.licdn.com/dms/image/C4D03AQE6JpF7H5lClw/profile-displayphoto-shrink_800_800/0/1649300517488?e=1712793600&v=beta&t=68TCak4S3Y6q_ntOKDp4HRFyL8wbBJeUyV55ShtttOI" width="150"/>
         <span> <a href="https://www.linkedin.com/in/sabrina-otoni-da-silva-22525519b/">Sabrina Otoni</a> </span>
     </div>
-</div>
+</p>
