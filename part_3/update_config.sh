@@ -14,6 +14,6 @@ echo '    }                                                 ' >> $(pwd)/part_3/d
 echo '  }                                                   ' >> $(pwd)/part_3/docker/config/microservices.json
 echo '}                                                     ' >> $(pwd)/part_3/docker/config/microservices.json
 
-echo "Arquivo de configuração atualizado com sucesso. Veja seu conteúdo: "
+echo "[PART 3] Arquivo de configuração atualizado com sucesso. Veja seu conteúdo: "
 
 cat $(pwd)/part_3/docker/config/microservices.json
