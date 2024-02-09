@@ -32,6 +32,7 @@ Para os testes utilizei a VM acima no Azure (Standard B1ms (1 vcpu, 2 GiB memory
 ## Testando a solução corporativa
 ![FrontEnd](./assets/frontend.png)
 > Construímos uma simulação de aplicação usando o Streamlit
+> [Assista ao sistema funcionando](https://www.youtube.com/watch?v=CzFE6QAvz4M)
 
 # Repositório base
 Esse trabalho é baseado nas aulas de [Elthon Manhas de Freitas](https://www.linkedin.com/in/elthonmf/). E em seu repositório: [Plataformas Cognitivas Docker](https://github.com/elthonf/plataformas-cognitivas-docker)
