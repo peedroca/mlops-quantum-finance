@@ -52,6 +52,11 @@ Esse trabalho é baseado nas aulas de [Elthon Manhas de Freitas](https://www.lin
         <p>Contributor</p>
       </td>
       <td align="center" valign="top">
+        <img src="https://media.licdn.com/dms/image/D4D03AQEJPOjaXTV6GA/profile-displayphoto-shrink_800_800/0/1683820361726?e=1712793600&v=beta&t=IayzsncFUx8TSCMP-sKYNjoBttH9i0kOjUatD-8G_Y4" width="150"/></br>
+        <span> <a href="https://www.linkedin.com/in/devpedroh/">Pedro Moreira</a> </span>
+        <p>Contributor</p>
+      </td>
+      <td align="center" valign="top">
         <img src="https://media.licdn.com/dms/image/C4D03AQE6JpF7H5lClw/profile-displayphoto-shrink_800_800/0/1649300517488?e=1712793600&v=beta&t=68TCak4S3Y6q_ntOKDp4HRFyL8wbBJeUyV55ShtttOI" width="150"/></br>
         <span> <a href="https://www.linkedin.com/in/sabrina-otoni-da-silva-22525519b/">Sabrina Otoni</a> </span>
         <p>Contributor</p>
