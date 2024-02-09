@@ -5,7 +5,7 @@ import json
 import sys, os, io, uuid, datetime, json, zipfile
 
 def dados_clusteringa(body):
-    with open('../config/microservices.json') as json_file:
+    with open('/myServer/config/microservices.json') as json_file:
         microservices_config = json.load(json_file)
 
     url = f'{microservices_config["model_manager"]["endpoint"]}/predict?model=customer_clustering'
